@@ -1,4 +1,4 @@
-# button-controlled-led
+# Button-controlled-led
 
 This project demonstrates button-controlled LED operation using Arduino in Wokwi Simulator.
 
